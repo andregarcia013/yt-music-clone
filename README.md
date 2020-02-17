@@ -2,6 +2,8 @@
 
 A YT music Clone project
 
+Just give me a star :')
+
 Someday I'll refactor this code, someday....
 
 ## Getting Started
